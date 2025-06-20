@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+feedparser
+beautifulsoup4
+requests
+openai
+langchain
+faiss-cpu
+python-multipart
